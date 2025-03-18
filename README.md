@@ -1,2 +1,2 @@
-# FEB-1
-jacop use foe demo session in guvi class
+question; what is data?
+answer; data is collection of fact and figurece 
